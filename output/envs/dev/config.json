@@ -1,0 +1,1 @@
+{"db_host":"dev-db.internal","environnement":"dev","log_level":"DEBUG","nb_tags":2,"nom_lower":"dev","nom_upper":"DEV","replicas":1,"tags":["dev","test"],"tags_jointes":"dev, test","timestamp":"27/09/2026"}

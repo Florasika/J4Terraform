@@ -1,0 +1,1 @@
+{"db_host":"staging-db.internal","environnement":"staging","log_level":"INFO","nb_tags":2,"nom_lower":"staging","nom_upper":"STAGING","replicas":2,"tags":["staging","pre-prod"],"tags_jointes":"staging, pre-prod","timestamp":"27/09/2026"}
